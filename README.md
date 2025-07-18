@@ -1,16 +1,25 @@
-## Hi there 👋
+ 
+# 👋 Hi, I'm Sahil Sharma
 
-<!--
-**sahil0907/sahil0907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I'm currently learning Cloud, DevOps & Linux  
+🎯 Goal: Become a Cloud/DevOps Engineer  
+🇮🇳 From: India  
+📸 Creating content for LinkedIn + dev.to  
 
-Here are some ideas to get you started:
+## 🔧 Tools & Technologies
+- 🐧 Linux (RHEL, Bash, Scripting)
+- ☁️ AWS (IAM, EC2, S3, CLI)
+- 📦 Git & GitHub
+- 🔧 Docker (soon...)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📝 Recent Articles
+- [Understanding SED Commands in Linux](https://dev.to/sahillearninglinux)
+- [How to Use Aliases & Customize MOTD](https://dev.to/sahillearninglinux)
+
+## 📈 GitHub Stats
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahil-dev&show_icons=true&theme=tokyonight)
+
+---
+
+**Let’s connect:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your-link)  
