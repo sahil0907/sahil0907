@@ -19,12 +19,10 @@
 ## 📈 GitHub Stats
 ![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahil0907&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-dev&layout=compact&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=sahil0907&theme=tokyonight)
 
 
 ---
 
 **Let’s connect:**  
-[![LinkedIn](https://www.linkedin.com/in/sahil0907/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sahil0907/)  
